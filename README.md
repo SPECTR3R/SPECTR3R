@@ -9,7 +9,7 @@
 <div style="text-align: right">"Software needs to be better, I need to be better at it" </div>
 
 ## :computer: Technologies I Love
-* Javascript
+* Javascript/Typescript
 * Golang
 * Frontend and Backend Web Development
 
@@ -33,7 +33,7 @@
 			]
 	
 	def getCity():
-		return Hyderabad_India()
+		return 'MexicoCity'
 	
 	def Ambitions():
 		WriteABlog()
