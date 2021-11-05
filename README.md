@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrio1992/)](https://www.linkedin.com/in/adrio1992/) [![Gmail Badge](https://img.shields.io/badge/-spectrer.software@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spectrer.software@gmail.com)](mailto:asterp04@gmail.com) <img src="https://komarev.com/ghpvc/?username=SPECTR3R" alt="SPECTR3R" /> 
+[![Linkedin Badge](https://img.shields.io/badge/-adrio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrio1992/)](https://www.linkedin.com/in/adrio1992/) [![Gmail Badge](https://img.shields.io/badge/-spectrer.software@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spectrer.software@gmail.com)](mailto:asterp04@gmail.com) <img src="https://komarev.com/ghpvc/?username=SPECTR3R" alt="SPECTR3R" /> 
 
 <div style="text-align: right">"Software needs to be better, I need to be better at it" </div>
 
