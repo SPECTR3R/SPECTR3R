@@ -24,31 +24,10 @@ Thank you for reading my profile, I'm a wannabe software engineer from México.
  ### Technologies I Use
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
  
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Adrio'
-		hobbies = [
-				'Drawing',
-				'Playing Music',
-				'Scuba Diving'
-			]
-	
-	def getCity():
-		return 'MexicoCity'
-	
-	def Ambitions():
-		WriteABlog()
-		BecomeASinnior()
-		MakeVideoGames()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
- 
  
 ### Current Works
  * I'm currently working on 🔭 building **Web Apps using Javascritp** and working up on polishing my skills 🌱 in **TDD**.
- * Getting Started with Golang and the Microservices
+ * Getting Started with Golang and the Microservices world.
  
 ### Other Stuff
   - :octocat: [My Resume]()
