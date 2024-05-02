@@ -1,5 +1,4 @@
-# Hey, [Adrio here!](https://www.linkedin.com/in/adrio1992/)<img src="https://68.media.tumblr.com/c8771963d5c44402c541fa083386e8bc/tumblr_or7f5r6zei1tlmx1vo1_250.gif" width="25px">
-
+# Hey, [Adrio here!](https://www.linkedin.com/in/adrio1992/)
 ### Welcome stranger!
 
 Thank you for reading my profile, I'm a software engineer from México.
