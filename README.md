@@ -2,7 +2,7 @@
 
 ### Welcome stranger!
 
-Thank you for reading my profile, I'm a wannabe software engineer from México.
+Thank you for reading my profile, I'm software engineer from México.
 
 <img src = 'https://66.media.tumblr.com/9988dfc9fc04bf4c2b72d598762dd835/44a87034c9f02b6e-be/s400x600/2d1f3c57398337165f8e8104b75ad0c036c4440c.gif' alt = 'Awesome Matrix Code' align='right'/>
 
