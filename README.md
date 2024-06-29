@@ -1,5 +1,6 @@
-# Hey, [Adrio here!](https://www.linkedin.com/in/adrio1992/)
-### Welcome stranger!
+# Hi, I'am Armand del Río a.k.a (Spectr3r)
+
+## Welcome stranger!
 
 Hello, I’m Armando. I am a Father, Husband, Scuba Diver and Software Engineer from Mexico. 
 
@@ -9,17 +10,17 @@ I'm deeply human, I love my country and my planet so I try to improve myself eve
 [![Linkedin Badge](https://img.shields.io/badge/-adrio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrio1992/)](https://www.linkedin.com/in/adrio1992/)
 <div style="text-align: right">"Software needs to be better, I need to be better at it" </div>
 
-### :computer: Technologies I Use
+## :computer: Technologies I Use
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SPECTR3R&layout=compact">
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
  
-### Currently Working
+## Currently Working
  * Currently working with Go and Javascript
  * I consider myself language agnostic, I thrive to be a software engineer rather than a framework engineer
  * I enjoy working in both, backend and fronted and I also have experience with mobile and IOT/Embedded products
 
-### Other Stuff
+## Other Stuff
   - :octocat: [My Resume]()
 
 ![Adrios's github stats](https://github-readme-stats.vercel.app/api?username=SPECTR3R&show_icons=true&hide=[%22issues%22])
