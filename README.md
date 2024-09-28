@@ -103,4 +103,7 @@ func (co *CareerObjectives) ContinuousImprovement() {
 <footer>
 <p align="center">Thanks for visiting my GitHub profile! Feel free to connect or explore my projects.👻👻👻</p>
 </footer>
-<p align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6a4b61398f79fff96462f2e8a7fc9225dfb4f9543cc1347a23215f3862a292e5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c6173736965636f646572266c6162656c3d50726f66696c65253230766965777326636f6c6f723d333633363362267374796c653d666c6174"><img src="https://camo.githubusercontent.com/6a4b61398f79fff96462f2e8a7fc9225dfb4f9543cc1347a23215f3862a292e5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c6173736965636f646572266c6162656c3d50726f66696c65253230766965777326636f6c6f723d333633363362267374796c653d666c6174" alt="SPECTR3R" data-canonical-src="https://komarev.com/ghpvc/?username=lassiecoder&amp;label=Profile%20views&amp;color=36363b&amp;style=flat" style="max-width: 100%;"></a></p>
+
+  <tr>
+   <p align="top"> <img src="https://komarev.com/ghpvc/?username=SPECTR3R&label=Profile%20views&color=00FFFF&style=flat" alt="SPECTR3R" /></p>
+  </tr>
