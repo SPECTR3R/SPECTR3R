@@ -93,14 +93,11 @@ func (co *CareerObjectives) ContinuousImprovement() {
 
 ## 📊 GitHub Stats
 
-
-<div align="center">
-
-![Adrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPECTR3R&show_icons=true&hide=["issues"])
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SPECTR3R&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=SPECTR3R&show_icons=true&hide=['issues']&theme=tokyonight&hide_border=true" alt="Adrio's GitHub stats" width="49%">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SPECTR3R&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467" alt="GitHub Streak" width="49%">
 </div>
+
 
 
 ## 📎 Other Stuff
