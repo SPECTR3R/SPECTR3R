@@ -102,8 +102,7 @@ func (co *CareerObjectives) ContinuousImprovement() {
 
 <footer>
 <p align="center">Thanks for visiting my GitHub profile! Feel free to connect or explore my projects.👻👻👻</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SPECTR3R&label=Profile%20views&color=00FFFF&style=flat" alt="SPECTR3R" /></p>
+
 </footer>
 
-  <tr>
-   <p align="top"> <img src="https://komarev.com/ghpvc/?username=SPECTR3R&label=Profile%20views&color=00FFFF&style=flat" alt="SPECTR3R" /></p>
-  </tr>
