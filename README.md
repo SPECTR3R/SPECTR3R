@@ -1,10 +1,10 @@
-# 👨‍💻 Armando Adrio (Spectr3r) [![Linkedin Badge](https://img.shields.io/badge/-adrio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrio1992/)](https://www.linkedin.com/in/adrio1992/)
+# Hi, My name is Armando, A.K.A Spectr3r[![Linkedin Badge](https://img.shields.io/badge/-adrio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrio1992/)](https://www.linkedin.com/in/adrio1992/)
 
 ```python
 class SoftwareEngineer:
     def __init__(self):
-        self.name = "Armando Adrio"
-        self.role = "Software Engineer"
+        self.name = "Armando del Río"
+        self.role = "Sr. Software Engineer"
         self.location = "Mexico"
         self.hobbies = ["Scuba Diving", "Parenting", "Coding"]
         self.interests = ["Technology", "Environment", "Self-improvement", "Artificial Intelligence"]
@@ -96,10 +96,7 @@ func (co *CareerObjectives) ContinuousImprovement() {
 
 ## 📎 Other Stuff
 
-```bash
-$ cat resume.txt
-🔗 Check out my Portfolio: [Link to your resume]
-```
+🔗 Check out [my Portfolio](https://adrio.vercel.app/)
 
 ---
 
