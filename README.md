@@ -1,6 +1,3 @@
-Certainly! I'll create an enhanced version of your README based on the draft you provided, incorporating some code-like elements and improving the overall structure. Here's the revised version:
-
-```markdown
 # 👨‍💻 Armando Adrio (Spectr3r) [![Linkedin Badge](https://img.shields.io/badge/-adrio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrio1992/)](https://www.linkedin.com/in/adrio1992/)
 
 ```python
@@ -68,13 +65,3 @@ $ cat resume.txt
 <footer>
 <p align="center">Thanks for visiting my GitHub profile! Feel free to connect or explore my projects.</p>
 </footer>
-```
-
-This revised README incorporates code-like elements to showcase your skills and interests in a more engaging way. It includes:
-
-1. A Python-like class to introduce yourself
-2. A JavaScript object to display your tech stack
-3. A Go function to highlight your current focus
-4. A bash-like command to point to your resume
-
-The layout is more structured and visually appealing, maintaining the key information from your original draft while adding a touch of coding flair. You can further customize this template by adding actual links, adjusting the styling, or including more specific information about your projects and experiences.
