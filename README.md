@@ -7,7 +7,7 @@ class SoftwareEngineer:
         self.role = "Software Engineer"
         self.location = "Mexico"
         self.hobbies = ["Scuba Diving", "Parenting", "Coding"]
-        self.interests = ["Technology", "Environment", "Self-improvement"]
+        self.interests = ["Technology", "Environment", "Self-improvement", "Artificial Intelligence"]
 
     def say_hi(self):
         print("Welcome stranger! Thanks for dropping by!")
@@ -20,34 +20,75 @@ me.say_hi()
 
 I'm a Father, Husband, Scuba Diver, and Software Engineer from Mexico. Deeply human, I love my country and our planet. I strive to improve myself every day and be responsible with the environment!
 
-<img src='https://66.media.tumblr.com/9988dfc9fc04bf4c2b72d598762dd835/44a87034c9f02b6e-be/s400x600/2d1f3c57398337165f8e8104b75ad0c036c4440c.gif' alt='Awesome Matrix Code' align='center'/>
-
-<div style="text-align: right"><i>"Software needs to be better, I need to be better at it"</i></div>
+<img src='https://i.giphy.com/YQitE4YNQNahy.webp' alt='Awesome Matrix Code' align='center'/>
 
 ## 🚀 Technologies I Use
 
 ```javascript
 const techStack = {
-    languages: ['JavaScript', 'TypeScript', 'Go', 'Bash'],
+    languages: ['JavaScript/TypeScript', 'Go', 'Python', 'Delphi', 'Java'], // in order of professional experience
     frontEnd: ['React', 'Angular', 'Vue', 'React Native'],
-    backEnd: ['Node.js', 'Express', 'Go'],
-    databases: ['PostgreSQL', 'Firebase'],
+    backEnd: ['Node.js', 'Express', 'Nest.js', 'Gin', 'Fiber'],
+    databases: ['PostgreSQL', 'DynamoDB', 'Firebase', 'MongoDB'],
+    testing: {
+        frameworks: ['Jest', 'Mocha', 'React Testing Library', 'Cypress', 'Selenium'],
+        approaches: ['TDD (Test-Driven Development)', 'BDD (Behavior-Driven Development)'],
+        types: ['Unit Testing', 'Integration Testing', 'E2E (End-to-End) Testing'],
+        tools: ['Cucumber', 'Jasmine', 'Postman', 'Insomnia'],
+        concepts: ['Mocking', 'Stubbing', 'Code Coverage', 'Continuous Integration']
+    },
     cloud: ['AWS', 'GCP'],
     devOps: ['Docker', 'Kubernetes'],
-    tools: ['Neovim', 'Linux'],
+    tools: ['Neovim', 'Linux', 'Mac', 'Bash', 'Git', 'Touch Typing']
 };
+
 ```
 
 ## 💼 Currently Working
 
 ```go
-func (se *SoftwareEngineer) CurrentFocus() {
-    fmt.Println("- Working with Go and JavaScript/TypeScript technologies")
-    fmt.Println("- Striving to be a language-agnostic software engineer")
-    fmt.Println("- Enjoying both backend and frontend development")
-    fmt.Println("- Experienced in mobile and IoT/Embedded products")
+func (se *SoftwareEngineer) CurrentFocus() CurrentFocus() {
+    focus := []string{
+        "Mastering Go for backend development and microservices",
+        "Enhancing TypeScript skills for robust frontend applications",
+        "Implementing enterprise-level cloud-native solutions",
+        "Mastering serverless architectures on AWS",
+        "Learning about system observability and resilience"
+    }
+    
+    fmt.Println("Current Focus:")
+    for _, item := range focus {
+        fmt.Printf("• %s\n", item)
+    }
 }
+
 ```
+
+##  Carreer Objectives
+
+```go
+func (co *CareerObjectives) ContinuousImprovement() {
+    objectives := []string{
+        "Deepen understanding of distributed systems and their scalability",
+        "Contribute to open-source projects to enhance collaboration skills",
+        "Stay updated with emerging technologies and industry best practices",
+        "Improve code quality through rigorous testing and CI/CD implementation",
+        "Enhance system design skills for large-scale applications",
+        "Develop expertise in data structures and algorithms for optimal solutions",
+        "Master design patterns and their practical applications",
+        "Cultivate leadership skills and mentor junior developers",
+        "Enhance security knowledge to build robust, secure applications",
+        "Improve performance optimization techniques for efficient systems"
+   }
+
+    fmt.Println("\nContinuous Improvement Objectives:")
+    for _, objective := range objectives {
+        fmt.Printf("• %s\n", objective)
+    }
+}
+
+```
+
 
 ## 📊 GitHub Stats
 
