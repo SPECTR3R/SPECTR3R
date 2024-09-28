@@ -1,7 +1,7 @@
 # Welcome, stranger! 👻👻
 
-I've got some very soft wares for you!
 <div align="center"><img src='https://i.giphy.com/YQitE4YNQNahy.webp' alt='Awesome Matrix Code' align='center'/></div>
+<p align="center">I've got some wares for you! They are soft wares!</p>
 
 ## 🌟 About Me
 
