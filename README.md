@@ -64,7 +64,7 @@ func (se *SoftwareEngineer) CurrentFocus() CurrentFocus() {
 
 ```
 
-##  Carreer Objectives
+##  Career Objectives
 
 ```go
 func (co *CareerObjectives) ContinuousImprovement() {
@@ -81,7 +81,7 @@ func (co *CareerObjectives) ContinuousImprovement() {
         "Improve performance optimization techniques for efficient systems"
    }
 
-    fmt.Println("\nContinuous Improvement Objectives:")
+    fmt.Println("\nCareer Objectives:")
     for _, objective := range objectives {
         fmt.Printf("• %s\n", objective)
     }
