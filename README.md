@@ -1,4 +1,11 @@
-# Hi, My name is Armando, A.K.A Spectr3r 👻👻 [![Linkedin Badge](https://img.shields.io/badge/-adrio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrio1992/)](https://www.linkedin.com/in/adrio1992/)
+# Welcome, stranger! 👻👻
+
+I've got some very soft wares for you!
+<div align="center"><img src='https://i.giphy.com/YQitE4YNQNahy.webp' alt='Awesome Matrix Code' align='center'/></div>
+
+## 🌟 About Me
+
+I'm a Father, Husband, Scuba Diver, and Software Engineer from Mexico. Deeply human, I love my country and our planet. I strive to improve myself every day and be responsible with the environment! 
 
 ```python
 class SoftwareEngineer:
@@ -17,11 +24,13 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## 🌟 About Me
+## 📊 GitHub Stats
 
-I'm a Father, Husband, Scuba Diver, and Software Engineer from Mexico. Deeply human, I love my country and our planet. I strive to improve myself every day and be responsible with the environment!
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=SPECTR3R&show_icons=true&hide=['issues']&theme=tokyonight&hide_border=true" alt="Adrio's GitHub stats" width="49%">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SPECTR3R&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467" alt="GitHub Streak" width="49%">
+</div>
 
-<img src='https://i.giphy.com/YQitE4YNQNahy.webp' alt='Awesome Matrix Code' align='center'/>
 
 ## 🚀 Technologies I Use
 
@@ -45,7 +54,7 @@ const techStack = {
 
 ```
 
-## 💼 Currently Working
+## 💼 Current Focus
 
 ```go
 func (se *SoftwareEngineer) CurrentFocus() CurrentFocus() {
@@ -90,19 +99,11 @@ func (co *CareerObjectives) ContinuousImprovement() {
 
 ```
 
-
-## 📊 GitHub Stats
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=SPECTR3R&show_icons=true&hide=['issues']&theme=tokyonight&hide_border=true" alt="Adrio's GitHub stats" width="49%">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SPECTR3R&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=467" alt="GitHub Streak" width="49%">
-</div>
-
-
-
 ## 📎 Other Stuff
 
 🔗 Check out [my Portfolio](https://adrio.vercel.app/)
+🔗 Visit my LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-adrio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrio1992/)](https://www.linkedin.com/in/adrio1992/)
+
 
 ---
 
