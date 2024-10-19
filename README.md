@@ -14,7 +14,7 @@ class SoftwareEngineer:
         self.role = "Sr. Software Engineer"
         self.location = "Mexico"
         self.hobbies = ["Scuba Diving", "Parenting", "Coding"]
-        self.interests = ["Technology", "Environment", "Self-improvement", "Artificial Intelligence"]
+        self.interests = ["Technology", "Environment", "Artificial Intelligence"]
         self.favoriteAnimal = ["Turtle"]
 
     def say_hi(self):
